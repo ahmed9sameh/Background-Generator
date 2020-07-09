@@ -1,0 +1,11 @@
+.container{
+	text-align: center;
+	font-family: 'Bangers', cursive;
+	font-size: 50px;
+	
+}
+body{
+
+background: rgb(31,146,182);
+background: linear-gradient(90deg, rgba(31,146,182,1) 1%, rgba(205,255,73,1) 100%);
+}
